@@ -1,0 +1,47 @@
+body {
+  background-image: url("cor.png");
+  background-size: auto 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 50px;
+  text-align: center;
+  color: lightgreen;
+}
+
+a {
+  color: darkblue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(28, 63, 63);
+  font-size: 18px;
+  text-transform: uppercase;
+  text-decoration-color: rgb(28, 88, 28);
+}
+
+.menu {
+  background-color: salmon;
+  color: white;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu li {
+  list-style: none;
+}
+
+/* Ignorar abaixo */
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
