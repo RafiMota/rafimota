@@ -4,7 +4,7 @@
 <br><br>
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=rafimota&theme=blue-green" alt="GitHub stats"> -->
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafimota&theme=blue-green" alt="GitHub stats"> -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafimota&theme=blue-green" alt="GitHub stats">
 
 ## Main Stack
 <p align="left" style="background:yellow">
