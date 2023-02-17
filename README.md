@@ -1,5 +1,10 @@
 ## Hello, Friend 👋🏻
 <p>I'm <strong>Rafí</strong>, bachelor in Systems and Digital Media at Federal University of Ceará.</p>
+<p>Main interests: </p>
+<ul>
+  <li>Full-stack</li>
+  <li>Photography</li>
+</ul>
 
 <br><br>
 
