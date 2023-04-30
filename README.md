@@ -6,19 +6,17 @@
   <li>Photography</li>
 </ul>
 
-<br><br>
-
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=rafimota&theme=blue-green" alt="GitHub stats"> -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafimota&theme=blue-green" alt="GitHub stats">
+</br>
 
-## Main Stack
+<h2>Main Stack</h2>
+
 <p align="left" style="background:yellow">
-<img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img align="center" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Python"/>
-<img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Python"/>
+<img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
-## Contact
+<h2>Contact</h2>
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/rafimota" target="_blank">
