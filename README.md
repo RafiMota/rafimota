@@ -2,12 +2,7 @@
 <p>I'm <strong>Rafí</strong>, bachelor in Systems and Digital Media at Federal University of Ceará.</p>
 <p>Willing to find a team with engaging projects, and hoping to learn a lot with them!</p>
 
-<p>Main interests: </p>
-<ul>
-  <li>Full-Stack development</li>
-<!--   <li>Back-end (beggining)</li> -->
-  <li>Graphic Design</li>
-</ul>
+<p>Interessed in various programming topics, but essentially focusing on web development, specifically front-end. In the future, I pretend to migrate to a more full-stack approach of development</p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafimota&theme=blue-green" alt="GitHub stats">
 </br>
