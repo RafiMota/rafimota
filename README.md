@@ -2,7 +2,7 @@
 <p>I'm <strong>Rafí</strong>, bachelor in Systems and Digital Media at Federal University of Ceará.</p>
 <p>Willing to find a team with engaging projects, and hoping to learn a lot with them!</p>
 
-<p>Interessed in various programming topics, but essentially focusing on web development, specifically front-end. In the future, I pretend to migrate to a more full-stack approach of development</p>
+<p>Interessed in various programming topics, but essentially focusing on web development, specifically front-end. In the future, I pretend to migrate to a more full-stack approach of development.</p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafimota&theme=blue-green" alt="GitHub stats">
 </br>
@@ -10,7 +10,7 @@
 <h2>Main Stack</h2>
 
 <p align="left">
-<img align="center" src="https://skillicons.dev/icons?i=js,html,css,tailwind,vue" alt="JavaScript"/>
+<img align="center" src="https://skillicons.dev/icons?i=js,vue,html,css,tailwind" alt="JavaScript"/>
 <!-- <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> -->
 </p>
 
