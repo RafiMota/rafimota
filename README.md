@@ -10,7 +10,7 @@
 <h2>Main Stack</h2>
 
 <p align="left">
-<img align="center" src="https://skillicons.dev/icons?i=js,vue,html,css,tailwind" alt="JavaScript"/>
+<img align="center" src="https://skillicons.dev/icons?i=js,html,css,tailwind" alt="Javascript, HTML, CSS and TailwindCSS logos"/>
 <!-- <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> -->
 </p>
 
