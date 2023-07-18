@@ -5,12 +5,16 @@
 <p>Interessed in various programming topics, but essentially focusing on web development, specifically front-end. In the future, I pretend to migrate to a more full-stack approach of development.</p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafimota&theme=blue-green" alt="GitHub stats">
-</br>
 
 <h2>Main Stack</h2>
-
-<p align="left">
+<h3>Front-End</h3>
 <img align="center" src="https://skillicons.dev/icons?i=js,html,css,tailwind" alt="Javascript, HTML, CSS and TailwindCSS logos"/>
+<h3>Back-End</h3>
+<img align="center" src="https://skillicons.dev/icons?i=cs,dotnet" alt="Csharp and Dotnet logos"/>
+<!-- <h3>Database</h3>
+<img align="center" src="https://skillicons.dev/icons?i=azure" alt="Javascript, HTML, CSS and TailwindCSS logos"/> -->
+<p align="left">
+
 <!-- <img align="center" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/> -->
 </p>
 
@@ -18,10 +22,10 @@
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/rafimota" target="_blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin logo"/>
 </a>
 <a href="https://twitter.com/rafimota" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>  
+  <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter logo"/>
 </a>
 
 </p>
