@@ -1,7 +1,7 @@
 ## Hello, Friend 👋🏻
 <p>I'm <strong>Rafí</strong>, bachelor in Systems and Digital Media at Federal University of Ceará.</p>
 <p>Aiming to join a team with engaging projects, and hoping to learn a lot with them!</p>
-<p>Focused on Web Development and Desktop environments.</p>
+<p>Focused on Full-Stack Web Development and Desktop environments.</p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafimota&theme=blue-green" alt="GitHub stats">
 
