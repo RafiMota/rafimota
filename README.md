@@ -23,8 +23,8 @@
 <a href="https://linkedin.com/in/rafimota" target="_blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin logo"/>
 </a>
-<a href="https://twitter.com/rafimota" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter logo"/>
+<a href="https://instagram.com/rafimota" target="_blank">
+  <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram logo"/>
 </a>
 
 </p>
